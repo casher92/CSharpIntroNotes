@@ -1,0 +1,6 @@
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.csprojResolveAssemblyReference.cache
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.exe.config
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.pdb
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.pdb

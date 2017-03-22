@@ -1,0 +1,5 @@
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.03_Strings\bin\Debug\0.03_Strings.exe.config
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.03_Strings\bin\Debug\0.03_Strings.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.03_Strings\bin\Debug\0.03_Strings.pdb
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.03_Strings\obj\Debug\0.03_Strings.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.03_Strings\obj\Debug\0.03_Strings.pdb

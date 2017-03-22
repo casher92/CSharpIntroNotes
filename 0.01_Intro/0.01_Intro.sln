@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.02_BasicTypes_Challenges"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.03_Strings", "0.03_Strings\0.03_Strings.csproj", "{62107369-59B8-45B9-A2AC-8263FF777960}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_conditionals", "0.04_conditionals\0.04_conditionals.csproj", "{62578823-07B8-41C0-A282-6E98A7322E81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{62107369-59B8-45B9-A2AC-8263FF777960}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62107369-59B8-45B9-A2AC-8263FF777960}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62107369-59B8-45B9-A2AC-8263FF777960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62578823-07B8-41C0-A282-6E98A7322E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62578823-07B8-41C0-A282-6E98A7322E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62578823-07B8-41C0-A282-6E98A7322E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62578823-07B8-41C0-A282-6E98A7322E81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -22,6 +22,9 @@ namespace _0._03_Strings
 
             Console.WriteLine("Name: {0}" + "\n" + "Occupation: {1}", fullName, occupation);
             Console.ReadLine();
+
+
+
         }
     }
 }

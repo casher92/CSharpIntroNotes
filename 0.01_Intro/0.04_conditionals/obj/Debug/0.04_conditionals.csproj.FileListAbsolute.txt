@@ -1,0 +1,6 @@
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.04_conditionals\bin\Debug\0.04_conditionals.exe.config
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.04_conditionals\bin\Debug\0.04_conditionals.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.04_conditionals\bin\Debug\0.04_conditionals.pdb
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.04_conditionals\obj\Debug\0.04_conditionals.csprojResolveAssemblyReference.cache
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.04_conditionals\obj\Debug\0.04_conditionals.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.04_conditionals\obj\Debug\0.04_conditionals.pdb

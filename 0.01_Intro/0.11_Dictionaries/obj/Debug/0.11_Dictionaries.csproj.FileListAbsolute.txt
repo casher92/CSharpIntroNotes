@@ -1,0 +1,6 @@
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.11_Dictionaries\bin\Debug\0.11_Dictionaries.exe.config
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.11_Dictionaries\bin\Debug\0.11_Dictionaries.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.11_Dictionaries\bin\Debug\0.11_Dictionaries.pdb
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.11_Dictionaries\obj\Debug\0.11_Dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.11_Dictionaries\obj\Debug\0.11_Dictionaries.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.11_Dictionaries\obj\Debug\0.11_Dictionaries.pdb

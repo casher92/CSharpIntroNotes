@@ -1,0 +1,6 @@
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.12_Inheritance\bin\Debug\0.12_Inheritance.exe.config
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.12_Inheritance\bin\Debug\0.12_Inheritance.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.12_Inheritance\bin\Debug\0.12_Inheritance.pdb
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.12_Inheritance\obj\Debug\0.12_Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.12_Inheritance\obj\Debug\0.12_Inheritance.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.12_Inheritance\obj\Debug\0.12_Inheritance.pdb

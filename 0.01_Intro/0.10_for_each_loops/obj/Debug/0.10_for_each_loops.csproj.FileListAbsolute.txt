@@ -1,0 +1,6 @@
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.10_for_each_loops\obj\Debug\0.10_for_each_loops.csprojResolveAssemblyReference.cache
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.10_for_each_loops\bin\Debug\0.10_for_each_loops.exe.config
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.10_for_each_loops\bin\Debug\0.10_for_each_loops.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.10_for_each_loops\bin\Debug\0.10_for_each_loops.pdb
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.10_for_each_loops\obj\Debug\0.10_for_each_loops.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.10_for_each_loops\obj\Debug\0.10_for_each_loops.pdb

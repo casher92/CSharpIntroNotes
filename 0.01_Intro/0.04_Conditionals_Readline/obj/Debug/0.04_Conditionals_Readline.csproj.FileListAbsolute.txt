@@ -1,0 +1,6 @@
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.04_Conditionals_Readline\bin\Debug\0.04_Conditionals_Readline.exe.config
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.04_Conditionals_Readline\bin\Debug\0.04_Conditionals_Readline.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.04_Conditionals_Readline\bin\Debug\0.04_Conditionals_Readline.pdb
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.04_Conditionals_Readline\obj\Debug\0.04_Conditionals_Readline.csprojResolveAssemblyReference.cache
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.04_Conditionals_Readline\obj\Debug\0.04_Conditionals_Readline.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.04_Conditionals_Readline\obj\Debug\0.04_Conditionals_Readline.pdb

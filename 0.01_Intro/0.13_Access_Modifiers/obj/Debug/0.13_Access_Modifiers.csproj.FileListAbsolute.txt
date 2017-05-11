@@ -1,0 +1,6 @@
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.13_Access_Modifiers\obj\Debug\0.13_Access_Modifiers.csprojResolveAssemblyReference.cache
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.13_Access_Modifiers\bin\Debug\0.13_Access_Modifiers.exe.config
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.13_Access_Modifiers\bin\Debug\0.13_Access_Modifiers.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.13_Access_Modifiers\bin\Debug\0.13_Access_Modifiers.pdb
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.13_Access_Modifiers\obj\Debug\0.13_Access_Modifiers.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.13_Access_Modifiers\obj\Debug\0.13_Access_Modifiers.pdb

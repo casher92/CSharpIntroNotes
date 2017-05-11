@@ -1,0 +1,6 @@
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.10_Collections_arraysofobject\bin\Debug\0.10_Collections_arraysofobject.exe.config
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.10_Collections_arraysofobject\bin\Debug\0.10_Collections_arraysofobject.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.10_Collections_arraysofobject\bin\Debug\0.10_Collections_arraysofobject.pdb
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.10_Collections_arraysofobject\obj\Debug\0.10_Collections_arraysofobject.csprojResolveAssemblyReference.cache
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.10_Collections_arraysofobject\obj\Debug\0.10_Collections_arraysofobject.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.10_Collections_arraysofobject\obj\Debug\0.10_Collections_arraysofobject.pdb

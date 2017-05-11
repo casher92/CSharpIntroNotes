@@ -1,0 +1,6 @@
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.09_constructors_challenge\obj\Debug\0.09_constructors_challenge.csprojResolveAssemblyReference.cache
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.09_constructors_challenge\bin\Debug\0.09_constructors_challenge.exe.config
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.09_constructors_challenge\bin\Debug\0.09_constructors_challenge.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.09_constructors_challenge\bin\Debug\0.09_constructors_challenge.pdb
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.09_constructors_challenge\obj\Debug\0.09_constructors_challenge.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.09_constructors_challenge\obj\Debug\0.09_constructors_challenge.pdb

@@ -1,0 +1,6 @@
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.06_Methods_Challenge_Netflix\bin\Debug\0.06_Methods_Challenge_Netflix.exe.config
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.06_Methods_Challenge_Netflix\bin\Debug\0.06_Methods_Challenge_Netflix.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.06_Methods_Challenge_Netflix\bin\Debug\0.06_Methods_Challenge_Netflix.pdb
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.06_Methods_Challenge_Netflix\obj\Debug\0.06_Methods_Challenge_Netflix.csprojResolveAssemblyReference.cache
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.06_Methods_Challenge_Netflix\obj\Debug\0.06_Methods_Challenge_Netflix.exe
+C:\Users\crash\OneDrive\Documents\Visual Studio 2017\Projects\CSharp\0.01_Intro\0.06_Methods_Challenge_Netflix\obj\Debug\0.06_Methods_Challenge_Netflix.pdb
